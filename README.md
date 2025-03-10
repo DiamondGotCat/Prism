@@ -2,7 +2,7 @@
 Prism is Multi-modal LLM. You can Customize with Prism Training Script.
 
 ## Models
-[Hugging Face](https://huggingface.co/collections/DiamondGotCat/prism-67cf2f099148148b86de0a08) or `https://huggingface.co/collections/DiamondGotCat/prism-67cf2f099148148b86de0a08`
+- **Prism 0.2:** [Hugging Face](https://huggingface.co/collections/DiamondGotCat/prism-67cf2f099148148b86de0a08)
 
 ## How
 I used Transformers Library.
