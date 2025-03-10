@@ -2,7 +2,7 @@
 Prism is Multi-modal LLM. You can Customize with Prism Training Script.
 
 ## Models
-- (Preview) **Prism 0.2:** [Published](https://huggingface.co/collections/DiamondGotCat/prism-67cf2f099148148b86de0a08)
+- (Preview) **Prism 0.2:** [Published](https://huggingface.co/DiamondGotCat/Prism-0.2)
 - (Preview) **Prism 0.3:** Building... (Plan)
 - (Preview) **Prism 0.4:** Building... (Plan)
 - (Preview) **Prism 0.5:** Building... (Plan)
